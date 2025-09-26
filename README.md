@@ -25,7 +25,7 @@ Press **Space** to fire; when the game ends, press **Space** again to restart.
 ---
 
 ## 🗂️ Project Structure
-.
+
 ├── main.py          # Entry point: sets up the game and loop  
 ├── game.py          # Game orchestration, groups, collisions, state  
 ├── alien.py         # Alien sprite & behavior  
