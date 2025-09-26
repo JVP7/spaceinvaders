@@ -1,0 +1,16 @@
+# macOS junk files
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VSCode settings
+.vscode/
+
+# Virtual environments
+env/
+venv/
+.venv/
